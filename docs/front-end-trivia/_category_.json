@@ -1,0 +1,8 @@
+{
+  "label": "Front End Trivia",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Quick hitters on front end development"
+  }
+}
